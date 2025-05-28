@@ -1,8 +1,6 @@
-# ATM-AND-BANKING-SYSTEM
-# Reg No: 212222240034
-# Name: HARIPRASATH S
-# Date:
-
+# ATM AND BANKING SYSTEM
+# Reg No: 212223220002
+# Name: ADITYAH M S
 
 # AIM:
 To develop the ATM and Banking System using Star UML
